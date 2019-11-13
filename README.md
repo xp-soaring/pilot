@@ -28,5 +28,9 @@ B21 did the model surgery
 
 unrealaviation worked out the 'first entry in the Misc Objects' technique and provided the coordinates.
 
+Laminar for original 'glider_pilot.obj' model
+
 ![pilot screenshot](pilot.png)
+
+![glider_pilot screenshot](glider_pilot_obj.png)
 
