@@ -14,7 +14,15 @@ in 'Misc Objects'.
 
 Suggested starting positioning is: 1.25, 0.85, 1.25 with a heading of 1 and a pitch of 29.
 
-# Credits
+For your aircraft, you *only* need the `<choice>.obj`, `pilot.dds` and `pilot_NRM.png`
+
+## The surgery technique...
+
+The `pilot.ods` file is a Libreoffice spreadsheet containing the original .obj data with a bunch of XY scatterplots
+that allowed me to search through the file to find which rows contain the x,y,z points relevant to the headphones and seat
+belt. Anyone sensible would use Sketchup and one day I'll get off my ass and learn it. I include it here in case it helps anyone.
+
+## Credits
 
 B21 did the model surgery
 
