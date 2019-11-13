@@ -7,14 +7,14 @@ part of the seat strap which tends to poke out the side of some aircraft (i.e. g
 
 ## Usage
 
-Add this 'pilot' director to an 'objects' folder in your aircraft folder.
+Add this 'pilot' directory to an 'objects' folder in your aircraft folder.
+
+For your aircraft, you *only* need the `<choice>.obj`, `pilot.dds` and `pilot_NRM.png`
 
 Using Plane Maker, add the chosen pilot model (e.g. pilot.obj) as the FIRST object
 in 'Misc Objects'.
 
 Suggested starting positioning is: 1.25, 0.85, 1.25 with a heading of 1 and a pitch of 29.
-
-For your aircraft, you *only* need the `<choice>.obj`, `pilot.dds` and `pilot_NRM.png`
 
 ## The surgery technique...
 
