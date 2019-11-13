@@ -20,5 +20,5 @@ B21 did the model surgery
 
 unrealaviation worked out the 'first entry in the Misc Objects' technique and provided the coordinates.
 
-!(pilot screenshot)[pilot.png]
+![pilot screenshot](pilot.png)
 
